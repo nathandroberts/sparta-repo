@@ -1,5 +1,3 @@
 # sparta-repo
 This is my first Sparta repo
-
-## This is a second header
-These are changes
+Practice for creating repos on github.
